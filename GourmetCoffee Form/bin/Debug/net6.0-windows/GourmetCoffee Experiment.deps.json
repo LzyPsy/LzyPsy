@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GourmetCoffee Experiment/1.0.0": {
+        "runtime": {
+          "GourmetCoffee Experiment.dll": {}
+        }
+      },
+      "GourmetCoffee Structure/1.0.0": {
+        "runtime": {
+          "GourmetCoffee Structure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GourmetCoffee Experiment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GourmetCoffee Structure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
